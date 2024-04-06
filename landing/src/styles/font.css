@@ -1,0 +1,14 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/BalooBhai2Bold.ttf");
+  font-family: "Baloo Bhai 2";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/BalooBhai2Regular.ttf");
+  font-family: "Baloo Bhai 2";
+  font-weight: 400;
+}
